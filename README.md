@@ -2,7 +2,7 @@
 
 
 - 📕 Curso Análise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando Python
 - 🔭 Atualmente estou em busca de um emprego
 
 <div style="display: inline_block"><br>
