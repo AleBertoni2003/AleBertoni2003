@@ -1,7 +1,7 @@
 ### Olá, eu sou Alexandre Bertoni.
 
 
-- 📕 Curso Análise e Desenvolvimento de Sistemas 4/6
+- 📕 Curso Análise e Desenvolvimento de Sistemas 5/6
 - 🌱 Estou estudando Python
 - 🔭 Atualmente estou em busca de um emprego
 
